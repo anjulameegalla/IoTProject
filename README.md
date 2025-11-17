@@ -10,5 +10,5 @@ Group 07 - BTEC HND in DT 24/26 - Nebula Institute of Technology
 ### Serial Monitor Measures
 <img src="/imgs/Arduino_IDE_bBn4MSk7hO.png" style="width: 700px;">
 
-### ESP32 Web dashboard
+### ESP32 Web dashboard (temporary)
 <img src="/imgs/chrome_boK5iPq96y.png" style="width: 900px;">
